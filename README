@@ -1,0 +1,3 @@
+LCD, ADC, 7-Segment Display, interrupt etc. based scenario is implemented in C for PIC18F4620. 
+MPLAB XC8 compiler is used. Oscillator frequency should be 40mHz.
+hex file is also provided. Program can be run in Picsimlab after uploading hex file to it. 
